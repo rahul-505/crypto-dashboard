@@ -2,7 +2,7 @@
 
 ![Screenshot](public/Screenshot1.png)
 
-Live demo: [https://crypto-dashboard.vercel.app](https://crypto-dashboard.vercel.app)
+Live demo: [[https://crypto-dashboard.vercel.app](https://crypto-dashboard-nine-pi.vercel.app/)
 
 ## Features
 - Real-time cryptocurrency prices
